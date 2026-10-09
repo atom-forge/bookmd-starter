@@ -1,6 +1,6 @@
 ---
 courses:
-  - "[[my-first-book/course.md]]"
+  - "[[my-first-book/book.md]]"
 ---
 # My books
 

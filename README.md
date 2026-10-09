@@ -14,7 +14,7 @@ Every later commit to `main` republishes the site. If a link is broken, the run 
 ## What is where
 
 - `content/books.md` – the front page and the list of books.
-- `content/my-first-book/` – a sample book: `course.md` is its front page, the other files are pages.
+- `content/my-first-book/` – a sample book: `book.md` is its front page, the other files are pages.
 - `portal.config.ts` – site title and entry file.
 - `.github/workflows/pages.yml` – builds and deploys the site.
 
