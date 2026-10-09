@@ -18,6 +18,6 @@ Every later commit to `main` republishes the site. If a link is broken, the run 
 - `portal.config.ts` – site title and entry file.
 - `.github/workflows/pages.yml` – builds and deploys the site.
 
-How to write books (metadata, chapters, tags): [authoring guide](https://github.com/atom-forge/bookmd/blob/main/docs/authoring.md). Details of publishing: [deploy guide](https://github.com/atom-forge/bookmd/blob/main/docs/user/deploy-a-book.md).
+How to write books (metadata, chapters, tags): [manual](https://github.com/atom-forge/bookmd/blob/main/docs/book.md). Details of publishing: [deploy guide](https://github.com/atom-forge/bookmd/blob/main/docs/user/deploy-a-book.md).
 
 If the repository is named `<your-name>.github.io` or uses a custom domain, remove the `env: BASE_PATH` lines from the workflow.
